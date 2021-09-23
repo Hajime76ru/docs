@@ -1,3 +1,4 @@
+![repository-open-graph-template](https://user-images.githubusercontent.com/91243006/134461584-73eb86de-c337-4a71-b1f9-b596051c0515.png)
 ---
 title: Managing repository access for your organization's codespaces
 shortTitle: Repository access
