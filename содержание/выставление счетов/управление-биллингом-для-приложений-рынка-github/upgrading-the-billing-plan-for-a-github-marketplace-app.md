@@ -1,3 +1,4 @@
+[ebf22ea.diff.zip](https://github.com/github/docs/files/8513733/ebf22ea.diff.zip)
 ---
 title: Upgrading the billing plan for a GitHub Marketplace app
 intro: 'You can upgrade your {% data variables.product.prodname_marketplace %} app to a different plan at any time.'
